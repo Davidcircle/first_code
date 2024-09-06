@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人博客</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>欢迎来到我的博客</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">关于我</a></li>
+                <li><a href="#posts">文章</a></li>
+                <li><a href="#contact">联系我</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>关于我</h2>
+            <p>这里是关于我的介绍。</p>
+        </section>
+
+        <section id="posts">
+            <h2>我的文章</h2>
+            <article>
+                <h3>文章标题一</h3>
+                <p>这是文章一的内容...</p>
+            </article>
+            <article>
+                <h3>文章标题二</h3>
+                <p>这是文章二的内容...</p>
+            </article>
+        </section>
+
+        <section id="contact">
+            <h2>联系我</h2>
+            <form id="contact-form">
+                <label for="name">姓名:</label>
+                <input type="text" id="name" required>
+                <label for="email">邮箱:</label>
+                <input type="email" id="email" required>
+                <button type="submit">提交</button>
+            </form>
+        </section>
+
+        <!-- 添加视频 -->
+        <section id="video">
+            <h2>视频展示</h2>
+            <video width="320" height="240" controls>
+                <source src="Video_exit_test_02.mp4" type="video/mp4">
+                您的浏览器不支持 video 标签。
+            </video>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 我的个人博客</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
