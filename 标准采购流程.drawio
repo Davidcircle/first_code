@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zj-WJtspRBvdAaKJb1U6-1" parent="1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" value="PulseX ERP 标准销售业务流程" vertex="1">
-          <mxGeometry height="25" width="300" x="860" y="273.20001220703125" as="geometry" />
+          <mxGeometry height="25" width="300" x="864" y="279.00001220703126" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;" value="客户" vertex="1">
           <mxGeometry height="30" width="100" x="667" y="327.20001220703125" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="30" width="120" x="1267" y="327.20001220703125" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;horizontal=0;" value="销售申请" vertex="1">
-          <mxGeometry height="100" width="30" x="637" y="357.20001220703125" as="geometry" />
+          <mxGeometry height="100.2" width="30" x="637" y="357" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;horizontal=0;" value="销售订单" vertex="1">
           <mxGeometry height="100" width="30" x="637" y="457.20001220703125" as="geometry" />
