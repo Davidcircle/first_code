@@ -163,8 +163,11 @@
             <mxPoint x="922" y="407.20001220703125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-44" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fillColor=#dae8fc;" target="zj-WJtspRBvdAaKJb1U6-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fillColor=#dae8fc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zj-WJtspRBvdAaKJb1U6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="757" y="512.1999999999999" as="sourcePoint" />
+            <mxPoint x="787" y="517.1999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;dashed=1;endArrow=classic;fontSize=9;fillColor=#dae8fc;" value="不通过">
           <mxGeometry relative="1" as="geometry">
