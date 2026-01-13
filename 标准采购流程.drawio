@@ -13,7 +13,7 @@
         <mxCell id="M_ypXXX-gidc7VxILl-d-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="供应商" vertex="1">
           <mxGeometry height="40" width="120" x="145" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="M_ypXXX-gidc7VxILl-d-4" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="质量部" vertex="1">
+        <mxCell id="M_ypXXX-gidc7VxILl-d-4" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="品质部" vertex="1">
           <mxGeometry height="40" width="120" x="265" y="60" as="geometry" />
         </mxCell>
         <mxCell id="M_ypXXX-gidc7VxILl-d-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="仓库" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="M_ypXXX-gidc7VxILl-d-7" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="采购部" vertex="1">
           <mxGeometry height="40" width="160" x="645" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="M_ypXXX-gidc7VxILl-d-8" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="使用部门" vertex="1">
+        <mxCell id="M_ypXXX-gidc7VxILl-d-8" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="使用部门（如生产部）" vertex="1">
           <mxGeometry height="40" width="140" x="805" y="60" as="geometry" />
         </mxCell>
         <mxCell id="M_ypXXX-gidc7VxILl-d-9" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;rotation=-90;" value="采购申请" vertex="1">
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_ypXXX-gidc7VxILl-d-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="下达采购订单" vertex="1">
-          <mxGeometry height="40" width="100" x="675" y="187" as="geometry" />
+          <mxGeometry height="40" width="100" x="675" y="194" as="geometry" />
         </mxCell>
         <mxCell id="M_ypXXX-gidc7VxILl-d-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="质量检验" vertex="1">
           <mxGeometry height="50" width="80" x="285" y="330" as="geometry" />
@@ -181,20 +181,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="145" y="310" as="sourcePoint" />
             <mxPoint x="1045" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z-ufEXpxk7_mFaqOQUwZ-3" edge="1" parent="1" source="M_ypXXX-gidc7VxILl-d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="M_ypXXX-gidc7VxILl-d-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="725" y="264" />
-              <mxPoint x="654" y="264" />
-              <mxPoint x="654" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z-ufEXpxk7_mFaqOQUwZ-6" connectable="0" parent="Z-ufEXpxk7_mFaqOQUwZ-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不通过" vertex="1">
-          <mxGeometry relative="1" x="-0.4486" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_ypXXX-gidc7VxILl-d-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="采购订单" vertex="1">
