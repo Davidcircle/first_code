@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="SCM_PUR_01 标准采购业务流程" id="PcKlO3pyOu7t-u9VSEY4">
-    <mxGraphModel dx="29" dy="239" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="483" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="zj-WJtspRBvdAaKJb1U6-62" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zj-WJtspRBvdAaKJb1U6-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-63" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-63" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="审核通过" vertex="1">
           <mxGeometry relative="1" x="-0.29" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,6 +142,14 @@
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="质量检验" vertex="1">
           <mxGeometry height="50" width="70" x="1172" y="568.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-65" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zj-WJtspRBvdAaKJb1U6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-66" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="审核通过" vertex="1">
+          <mxGeometry relative="1" x="-0.1257" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="销售出库单" vertex="1">
           <mxGeometry height="40" width="90" x="1042" y="622.2000122070312" as="geometry" />
@@ -170,8 +178,9 @@
             <mxPoint x="787" y="517.1999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;dashed=1;endArrow=classic;fontSize=9;fillColor=#dae8fc;" value="不通过">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;dashed=1;endArrow=classic;fontSize=9;fillColor=#dae8fc;" value="审核不通过">
+          <mxGeometry relative="1" x="-0.0026" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="958" y="547" />
               <mxPoint x="833" y="547" />
@@ -219,7 +228,7 @@
         <mxCell id="zj-WJtspRBvdAaKJb1U6-59" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=6;" target="zj-WJtspRBvdAaKJb1U6-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-60" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-60" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="审核通过" vertex="1">
           <mxGeometry relative="1" x="0.2145" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
