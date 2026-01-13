@@ -109,7 +109,7 @@
             <mxPoint x="667" y="777.2000122070312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="提出需求" vertex="1">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="提出下单需求" vertex="1">
           <mxGeometry height="40" width="80" x="677" y="387.20001220703125" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="销售报价单" vertex="1">
