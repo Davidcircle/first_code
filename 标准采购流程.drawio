@@ -163,12 +163,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-74" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zj-WJtspRBvdAaKJb1U6-36">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-74" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zj-WJtspRBvdAaKJb1U6-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1085" y="682" />
-              <mxPoint x="1023" y="682" />
-              <mxPoint x="1023" y="704" />
+              <mxPoint x="1085" y="704" />
             </Array>
             <mxPoint x="1087" y="709.9199951171875" as="targetPoint" />
           </mxGeometry>
@@ -224,7 +222,7 @@
             <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-51" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;entryX=1.001;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" target="zj-WJtspRBvdAaKJb1U6-33" value="合格">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-51" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;entryX=1.001;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" target="zj-WJtspRBvdAaKJb1U6-33" value="质检合格">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1214" y="618" />
