@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="SCM_PUR_01 标准采购业务流程" id="PcKlO3pyOu7t-u9VSEY4">
-    <mxGraphModel dx="115" dy="287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
             <mxPoint x="1207" y="502.59771658360273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-71" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="质检不通过" vertex="1">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-71" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="质检不合格" vertex="1">
           <mxGeometry relative="1" x="0.0796" y="-4" as="geometry">
             <mxPoint x="-10" y="4" as="offset" />
           </mxGeometry>
