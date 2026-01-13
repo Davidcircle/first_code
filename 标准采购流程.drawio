@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="SCM_PUR_01 标准采购业务流程" id="PcKlO3pyOu7t-u9VSEY4">
-    <mxGraphModel dx="483" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-40" dy="200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,16 +154,31 @@
             <mxPoint x="962" y="682.2000122070312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-66" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过" vertex="1">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-66" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="结算" vertex="1">
           <mxGeometry relative="1" x="-0.1257" y="-1" as="geometry">
             <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-72" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" target="zj-WJtspRBvdAaKJb1U6-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1132" y="642" />
+              <mxPoint x="1282" y="642" />
+            </Array>
+            <mxPoint x="1132" y="652.7880000000002" as="sourcePoint" />
+            <mxPoint x="1281.28" y="653.6000122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-73" connectable="0" parent="zj-WJtspRBvdAaKJb1U6-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通知" vertex="1">
+          <mxGeometry relative="1" x="0.3015" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="销售出库单" vertex="1">
           <mxGeometry height="40" width="90" x="1042" y="622.2000122070312" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="发货/物流" vertex="1">
-          <mxGeometry height="40" width="90" x="1282" y="610.2000122070312" as="geometry" />
+          <mxGeometry height="40" width="90" x="1282" y="618.0000122070312" as="geometry" />
         </mxCell>
         <mxCell id="zj-WJtspRBvdAaKJb1U6-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="签收确认" vertex="1">
           <mxGeometry height="40" width="80" x="677" y="606.2000122070312" as="geometry" />
@@ -213,15 +228,15 @@
         <mxCell id="zj-WJtspRBvdAaKJb1U6-51" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;" target="zj-WJtspRBvdAaKJb1U6-33" value="合格">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1207" y="639" />
+              <mxPoint x="1207" y="628" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zj-WJtspRBvdAaKJb1U6-53" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fillColor=#dae8fc;">
+        <mxCell id="zj-WJtspRBvdAaKJb1U6-53" edge="1" parent="1" source="zj-WJtspRBvdAaKJb1U6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;strokeWidth=1;endArrow=classic;fillColor=#dae8fc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1327" y="669.2000122070312" />
-              <mxPoint x="717" y="669.2000122070312" />
+              <mxPoint x="1327" y="669" />
+              <mxPoint x="717" y="669" />
             </Array>
             <mxPoint x="1327.034482758621" y="651.2000122070312" as="sourcePoint" />
             <mxPoint x="717.0344827586207" y="647.2000122070312" as="targetPoint" />
